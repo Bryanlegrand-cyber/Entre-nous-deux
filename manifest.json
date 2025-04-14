@@ -1,0 +1,13 @@
+{
+  "name": "Entre Nous Deux",
+  "short_name": "Couple Game",
+  "start_url": "jeu_couple_pwa.html",
+  "display": "standalone",
+  "background_color": "#ffc3a0",
+  "theme_color": "#ffafbd",
+  "icons": [{
+    "src": "https://cdn-icons-png.flaticon.com/512/3820/3820331.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
